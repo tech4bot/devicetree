@@ -1,1 +1,1 @@
-# devicetree
+# Repo to keep dtb of different devices
